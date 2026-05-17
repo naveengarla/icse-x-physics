@@ -65,17 +65,10 @@ A cap is acted on by **two equal forces of 5 N each**, opposite directions, one 
 
 ---
 
-## 🖼️ Image Prompt 1
+## 🖼️ Image 1
 
-```
-[IMAGE PROMPT]
-Scene: Top-down view of a water bottle cap — two panels side by side.
-LEFT: Single finger pushing LEFT edge to RIGHT. Orange arrow shows cap SLIDING right. Bottle slides with it. Label: "Single Force → Slides, No Rotation."
-RIGHT: Thumb on LEFT pushing RIGHT + Index finger on RIGHT pushing LEFT. Two equal red arrows opposite directions. Cap spins CLOCKWISE in place. Bottle stays still. Label: "Couple → Pure Rotation, No Sliding."
-Perpendicular distance 'd' labeled between the two arrows. Label: "Couple Arm d."
-Newton the Cat peering at cap from corner.
-Style: Clean flat-design educational comic. Top-down view. Bold color-coded arrows. 2:3 vertical ratio.
-```
+<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/1a25405c-7bb7-41fa-98f4-c4dd9f68d403" />
+
 
 ---
 
