@@ -62,18 +62,8 @@ Which of the following objects is / are in equilibrium?
 
 ---
 
-## 🖼️ Image Prompt 1
-
-```
-[IMAGE PROMPT]
-Scene: A 4-panel vertical strip, each showing an object in a different state.
-PANEL 1 — "Book on table": Book resting still. Downward arrow labeled "Weight W". Upward arrow labeled "Normal Reaction N". Both arrows equal length. Label: "STATIC EQUILIBRIUM — At rest."
-PANEL 2 — "Car on road": Car moving right at steady speed. Forward arrow "Engine Force". Backward arrow "Friction/Drag". Equal lengths. Label: "DYNAMIC EQUILIBRIUM — Constant velocity."
-PANEL 3 — "Ball at peak": Ball at top of arc. Downward arrow "Gravity". NO upward force. Label: "NOT equilibrium — Velocity is zero but changing direction."
-PANEL 4 — "Raindrop": Raindrop falling. Downward "Weight W" arrow = upward "Air Resistance" arrow. Label: "DYNAMIC EQUILIBRIUM — Constant velocity downward."
-Characters: Mira pointing at Panel 4 looking satisfied. Arjun staring at Panel 3 looking surprised.
-Style: Educational infographic. Clean split panels. Color-coded arrows. 2:3 vertical ratio. Print-friendly.
-```
+## 🖼️ Image  1
+<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/9112aef0-ab34-40d2-a89a-6150c82ac928" />
 
 ---
 
