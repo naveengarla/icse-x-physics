@@ -1,0 +1,977 @@
+Chapter 1
+Force
+(A) Force, Work, Power and Energy
+
+SYLLABUS
+
+(i) Turning forces concept; moment of a force; forces in equilibrium; centre of gravity, (discussions using simple examples and simple direct problems).
+
+(ii) Elementary introduction of translational and rotational motions; moment (turning effect) of a force, also called torque and its C.G.S. and S.I. units; common examples — door, steering wheel, bicycle pedal, etc.; clockwise and anticlockwise moments; conditions for a body to be in equilibrium (translational and rotational); principle of moments and its verification using a metre rule suspended by two spring balances with slotted weights hanging from it; simple numerical problems.
+
+(iii) Centre of gravity (qualitative only) with examples of some regular bodies and irregular lamina.
+
+(iv) Uniform circular motion.
+
+Scope of syllabus: As an example of constant speed, though acceleration (force) is present. Difference between centrifugal and centripetal force.
+
+In class IX, we have read that a force when applied on a rigid body can cause only the motion in it, while when applied on a non-rigid body can cause both the change in its size or shape and the motion in it. In mathematical form, force applied on a body is defined as the rate of change in its linear momentum i.e.,
+
+$$\vec{F}=\frac{d\vec{p}}{dt}=\frac{d(m\vec{v})}{dt}=m\vec{a}$$
+
+if mass \(m\) is constant. The force is a vector quantity and its S.I. unit is newton (symbol N) or kilogram-force (symbol kgf) where \(1\,\text{kgf}=g\,\text{N}\) if \(g\) is the acceleration due to gravity \((=9.8\,\text{m s}^{-2}\) on average).
+
+(A) MOMENT OF A FORCE AND EQUILIBRIUM
+
+1.1 TRANSLATIONAL AND ROTATIONAL MOTIONS
+
+A rigid body when acted upon by a force, can have two kinds of motion:
+
+(1) linear or translational motion, and
+(2) rotational motion.
+
+(1) Linear or translational motion
+
+When a force acts on a stationary rigid body which is free to move, the body starts moving in a straight path in the direction of force. This is called the linear or translational motion. For example in Fig. 1.1, on pushing a ball lying on the floor, it begins to move.
+
+[Image/Diagram: Fig. 1.1 Translational motion — a ball pushed by force \(F\) moves in the direction of motion.]
+
+(2) Rotational motion
+
+If the body is pivoted at a point and the force is applied on the body at a suitable point, it rotates the body about the axis passing through the pivoted point. This is the turning effect of the force and the motion of body is called the rotational motion. For example, if a wheel is pivoted at its centre and a force is applied tangentially on its rim as shown in Fig. 1.2, the wheel rotates about its centre. Similarly when a force is applied normally on the handle of a door, the door begins to rotate about an axis passing through the hinges on which the door rests.
+
+[Image/Diagram: Fig. 1.2 Rotational motion — a wheel pivoted at the centre turns when force is applied tangentially at the rim.]
+
+1.2 MOMENT (TURNING EFFECT) OF A FORCE OR TORQUE
+
+Consider a body which is pivoted at a point O. If a force F is applied horizontally on the body with its line of action in the direction FP as shown in Fig. 1.3, the force is unable to produce linear motion of the body in its direction because the body is not free to move, but this force turns (or rotates) the body about the vertical axis passing through the point O, in the direction shown by the arrow in Fig. 1.3 (i.e., the force rotates the body anticlockwise).
+
+[Image/Diagram: Fig. 1.3 Moment of a force — a force \(F\) applied at point P turns a pivoted body about point O.]
+
+Factors affecting the turning of a body
+
+The turning effect on a body by a force depends on the following two factors:
+
+(1) the magnitude of the force applied, and
+(2) the distance of line of action of the force from the axis of rotation (or pivoted point).
+
+Indeed, the turning effect on the body depends on the product of both the above stated factors. This product is called the moment of force (or torque). Thus, the body rotates due to the moment of force (or torque) about the pivoted point. In other words,
+
+The turning effect on the body about an axis is due to the moment of force (or torque) applied on the body.
+
+Measurement of moment of force (or torque)
+
+The moment of a force (or torque) is equal to the product of the magnitude of the force and the perpendicular distance of the line of action of force from the axis of rotation.
+
+In Fig. 1.3, the line of action of force F is shown by the dotted line FP and the perpendicular drawn from the pivoted point O on the line of action of force is OP. Therefore,
+
+Moment of force about the axis passing through the point O
+
+$$=\text{Force}\times\text{Perpendicular distance of force from the point O}$$
+
+$$=F\times OP\qquad\text{...(1.1)}$$
+
+Note: For producing maximum turning effect on a body by a given force, the force is applied on the body at a point for which the perpendicular distance of line of action of the force from the axis of rotation is maximum so that the given force may provide the maximum torque to turn the body.
+
+Units of moment of force
+
+Unit of moment of force
+
+$$=\text{unit of force}\times\text{unit of distance}$$
+
+The S.I. unit of force is newton and that of distance is metre, so the S.I. unit of moment of force is newton metre. This is abbreviated as N m.
+
+The C.G.S. unit of moment of force is dyne cm.
+
+But if force is measured in gravitational unit, then the unit of moment of force in S.I. system is kgf m and in C.G.S. system, the unit is gf cm.
+
+These units are related as follows:
+
+$$1\,\text{N m}=10^5\,\text{dyne}\times10^2\,\text{cm}=10^7\,\text{dyne cm}$$
+
+$$1\,\text{kgf m}=9.8\,\text{N m}$$
+
+$$1\,\text{gf cm}=980\,\text{dyne cm}$$
+
+Clockwise and anticlockwise moments
+
+Conventionally, if the effect on the body is to turn it anticlockwise, moment of force is called the anticlockwise moment and it is taken positive, while if the effect on the body is to turn it clockwise, the moment of force is called the clockwise moment and it is taken negative.
+
+Note: The unit N m of moment of force (or torque) is not written joule (J). However the unit N m for work or energy is written joule (J) because torque is a vector, while work or energy is a scalar quantity.
+
+The moment of force is a vector quantity. The direction of anticlockwise moment is along the axis of rotation outwards, while of clockwise moment is along the axis of rotation inwards.
+
+On applying a force on a pivoted body, its direction of rotation depends on (a) the point of application of the force, and (b) the direction of force. Fig. 1.4(a) shows the anticlockwise and clockwise moments produced in a disc pivoted at its centre by changing the point of application of the force F from point A to point B. Fig. 1.4(b) shows the anticlockwise and clockwise moments produced on a pivoted axle by changing the direction of force F at the free end of the axle.
+
+[Image/Diagram: Fig. 1.4 Anticlockwise and clockwise moments — (a) changing point of application of force; (b) changing direction of force.]
+
+Common examples of moment of force
+
+(1) To open or shut a door, we apply a force (push or pull) \(F\) normal to the door at its handle P which is provided at the maximum distance from the hinges as shown in Fig. 1.5.
+
+We can notice that if we apply the force at a point Q (near the hinge R), much greater force is required to open the door and if the force is applied at the hinge R, we will not be able to open the door however large the force may be because of the force at R, torque will be zero. Thus the handle P is provided near the free end of the door so that a smaller force at a larger perpendicular distance produces the moment of force required to open or shut the door.
+
+[Image/Diagram: Fig. 1.5 Opening of a door — handle at maximum distance from hinges.]
+
+(2) The upper circular stone of a hand flour grinder is provided with a handle near its rim (i.e., at the maximum distance from centre) so that it can easily be rotated about the iron pivot at its centre by applying a small force at the handle.
+
+(3) For turning a steering wheel, a force is applied tangentially on the rim of the wheel (Fig. 1.6). The sense of rotation of wheel is changed by changing the point of application of force without changing the direction of force. In Fig. 1.6(a), when force F is applied at the point A of the wheel, the wheel rotates anticlockwise, while in Fig. 1.6(b), the wheel rotates clockwise when the force F in same direction is applied at the point B of the wheel.
+
+[Image/Diagram: Fig. 1.6 Same force direction changed by change of point of application — steering wheel turns anticlockwise or clockwise.]
+
+(4) In a bicycle, to turn the wheel anticlockwise, a small force is applied on the foot pedal of a toothed wheel of size bigger than the rear wheel so that the perpendicular distance of the point of application of force from the axle of wheel is large (Fig. 1.7). The two wheels are joined by a chain through their tooth.
+
+[Image/Diagram: Fig. 1.7 Turning of toothed wheel of a bicycle — foot pedal, axle and rear wheel connected by chain.]
+
+(5) A spanner used to tighten or loosen a nut, has a long handle to produce a large moment of force by a small force applied normally at the end of its handle as shown in Fig. 1.8. The spanner is turned anticlockwise to loosen the nut by applying the force in the direction shown in Fig. 1.8, while it is turned clockwise to tighten the nut by applying the force in a direction opposite to that shown in Fig. 1.8.
+
+[Image/Diagram: Fig. 1.8 Spanner (wrench) used to loosen a nut — force applied normally at end of handle.]
+
+Conclusion: From the above examples, we conclude that the turning of a body about an axis depends not only on the magnitude of the force, but it also depends on the perpendicular distance of the line of action of the applied force from the axis of rotation. Larger the perpendicular distance, less is the force needed to turn the body.
+
+1.3 COUPLE
+
+A single force applied on a pivoted body alone does not cause rotation of the body. Actually the rotation is always produced by a pair of forces. In the above examples, the rotation is due to the force externally applied and the force of reaction produced at the pivoted point. The force of reaction at the pivot is equal in magnitude, but opposite in direction to the applied force. The moment of the force of reaction about the pivot is zero because its distance from the axis of rotation is zero, so the force of reaction at the fixed point (or pivot) is not shown in Fig. 1.3 to Fig. 1.8. Such a pair of forces is called a couple. Thus two equal and opposite parallel forces, not acting along the same line, form a couple. A couple is always needed to produce a rotation. For example, when we open a door, the rotation of the door is produced by a couple consisting of two forces: (i) the force which we exert at the handle of the door, and (ii) an equal and opposite force of reaction at the hinge.
+
+In case if we require a larger turning effect, two forces, equal in magnitude and opposite in directions, are applied on the body explicitly such that both the forces turn the body in the same direction.
+
+Example: To open the nut of a car wheel, we apply equal forces, each F, at the two ends of the wrench's arm in opposite directions as shown in Fig. 1.9.
+
+[Image/Diagram: Fig. 1.9 Opening the nut of a car wheel by a wrench — equal opposite forces at ends.]
+
+Similarly turning a water tap (Fig. 1.10), tightening the cap of an inkpot (Fig. 1.11), turning the key in the hole of a lock (Fig. 1.12), winding a clock (or a watch) with the key, turning the steering of a motor-car (Fig. 1.13), driving the pedal of a bicycle, etc., are the other examples where a pair of forces (couple) is applied for rotation.
+
+[Image/Diagram: Fig. 1.10 Turning a water tap.]
+[Image/Diagram: Fig. 1.11 Tightening the cap.]
+[Image/Diagram: Fig. 1.12 Turning a key in a lock.]
+[Image/Diagram: Fig. 1.13 Turning a steering wheel.]
+
+Moment of couple
+
+Fig. 1.14 illustrates the action of a couple. AB is a bar which is pivoted at a point O. At the ends A and B, two equal and opposite forces, each of magnitude F, are applied. The perpendicular distance between the two forces is AB \((=d)\), which is called the couple arm. The two forces cannot produce the translational motion as their resultant sum in any direction is zero, but each force has the turning effect on the bar in the same direction. Thus the two forces together form a couple which rotates the bar about the point O. In Fig. 1.14, the two forces rotate the bar in anticlockwise direction.
+
+[Image/Diagram: Fig. 1.14 Couple action — equal and opposite parallel forces at A and B separated by distance d.]
+
+Moment of force F at the end A:
+
+$$=F\times OA \quad \text{(anticlockwise)}$$
+
+Moment of force F at the end B:
+
+$$=F\times OB \quad \text{(anticlockwise)}$$
+
+Total moment of couple (i.e., moment of both the forces):
+
+$$=F\times OA+F\times OB$$
+
+$$=F\times(OA+OB)=F\times AB$$
+
+$$=F\times d \quad \text{(anticlockwise)}$$
+
+Moment of couple:
+
+$$\text{Moment of couple}=\text{Either force}\times\text{perpendicular distance between the two forces (couple arm)}$$
+
+or
+
+$$\text{Moment of couple}=F\times d\qquad\text{...(1.3)}$$
+
+In other words, the moment of couple is equal to the product of the either force and the perpendicular distance between the line of action of both the forces.
+
+1.4 EQUILIBRIUM OF BODIES
+
+We have read that when a force acts on a body, it can produce translational motion if the body is free to move or can produce rotational motion if the body is fixed at a point. But it is possible to apply a number of forces (two or more) such that (i) the resultant of all forces is zero, so they do not change the state of rest or of motion of the body, and (ii) the algebraic sum of moments of all forces about the fixed point is zero, so they do not change the rotational state of the body; then the body is said to be in equilibrium. Thus:
+
+When a number of forces acting on a body produce no change in its state of rest or of linear or rotational motion, the body is said to be in equilibrium.
+
+Kinds of equilibrium
+
+The equilibrium is of two kinds: (1) static equilibrium, and (2) dynamic equilibrium.
+
+(1) Static equilibrium: When a body remains in the state of rest under the influence of several forces, the body is in static equilibrium.
+
+Examples:
+
+(i) In Fig. 1.15, if a body lying on the table top is pulled by a force F to its left and by an equal force F to its right (along the same line), the body does not move. The reason is that the applied forces are equal and opposite along the same line, so they balance each other (i.e., there is no horizontal force on the body). Hence the body remains at rest (i.e., in static equilibrium).
+
+[Image/Diagram: Fig. 1.15 A body in static equilibrium — equal opposite horizontal forces on a block.]
+
+(ii) If a book is lying on a table, the weight of the book exerted on the table vertically downwards is balanced by the equal and opposite force of reaction exerted by the table on the book vertically upwards. Thus, the book is in static equilibrium.
+
+(iii) In a beam balance when the beam is balanced in horizontal position, the clockwise moment of force due to object in its right pan balances the anticlockwise moment of force due to weights on its left pan and the beam has no rotational motion i.e., it is in static equilibrium.
+
+(2) Dynamic equilibrium: When a body remains in the same state of motion (translational or rotational), under the influence of the several forces, the body is said to be in dynamic equilibrium.
+
+Examples:
+
+(i) A rain drop reaches the earth surface with a constant velocity. The weight of the falling drop is balanced by the sum of the buoyant force and the force due to friction (or viscosity) of air. Thus, the net force on the drop is zero, so it moves with a constant velocity.
+
+(ii) An aeroplane moves at a constant height when upward lift on it balances its weight downwards.
+
+(iii) A stone tied at the end of a string when whirled in a circular path with a uniform speed is in dynamic equilibrium because the tension in the string provides the centripetal force required for circular motion. Similarly the motion of a planet around the sun or the motion of a satellite around the planet or the motion of an electron around the nucleus of an atom, are in dynamic equilibrium.
+
+Conditions for equilibrium
+
+From the above examples, we find that for a body to be in equilibrium, following two conditions must be satisfied for a body to be in equilibrium:
+
+(1) The resultant of all the forces acting on the body should be equal to zero.
+
+(2) The algebraic sum of moments of all the forces acting on the body about the point of rotation should be zero i.e., the sum of the anticlockwise moments about the axis of rotation must be equal to the sum of the clockwise moments about the same axis.
+
+1.5 PRINCIPLE OF MOMENTS
+
+When several forces act on a pivoted body, they tend to rotate it about an axis passing through the pivot. The resultant moment of all the forces about the pivoted point is obtained by taking the algebraic sum of the moment of each force about that point. To find the algebraic sum, the anticlockwise moment is taken positive, while the clockwise moment is taken negative. According to the principle of moments, if the algebraic sum of moments of all the forces, acting on the body about the axis of rotation is zero, the body is in equilibrium. Thus,
+
+According to the principle of moments, in equilibrium:
+
+$$\text{sum of the clockwise moments}=\text{sum of the anticlockwise moments}\qquad\text{...(1.4)}$$
+
+A physical balance (or beam balance) works on the principle of moments.
+
+Verification of the principle of moments
+
+Suspend a metre rule horizontally from a fixed support by means of a strong thread at O as shown in Fig. 1.16. Now suspend two spring balances A and B on the metre rule with some slotted weights \(W_1\) and \(W_2\) on them on either side of the thread. The metre rule may tilt to one side. Now adjust either the slotted weights on the spring balance or the position of the spring balance on either side of thread in such a way that the metre rule again becomes horizontal.
+
+[Image/Diagram: Fig. 1.16 Verification of principle of moments — metre rule suspended from support, spring balances A and B with weights on either side.]
+
+Let the weight suspended on the right side thread from the spring balance A be \(W_1\) at a distance \(OA=l_1\), while the weight suspended on the left side of the thread from the spring balance B be \(W_2\) at a distance \(OB=l_2\).
+
+The weight \(W_1\) tends to turn the metre rule clockwise, while the weight \(W_2\) tends to turn the metre rule anticlockwise.
+
+Clockwise moment of weight \(W_1\) about the point O:
+
+$$=W_1\times l_1$$
+
+Anticlockwise moment of weight \(W_2\) about the point O:
+
+$$=W_2\times l_2$$
+
+In equilibrium, when the metre rule is horizontal, it is found that
+
+$$W_1l_1=W_2l_2$$
+
+that is, clockwise moment = anticlockwise moment.
+
+This verifies the principle of moments.
+
+EXAMPLES
+
+1. A body is pivoted at a point. A force of 10 N is applied at a distance of 30 cm from the pivot. Calculate the moment of force about the pivot.
+
+Given, \(F=10\,\text{N}\), \(r=30\,\text{cm}=0.3\,\text{m}\)
+
+Moment of force:
+
+$$=F\times r=10\,\text{N}\times0.3\,\text{m}=3\,\text{N m}$$
+
+2. The moment of a force of 5 N about a point P is 2 N m. Calculate the distance of point of application of force from the point P.
+
+Given, moment of force \(=2\,\text{N m}\), \(F=5\,\text{N}\)
+
+If the distance of point of application of force from the point P is \(r\) metre, then
+
+$$\text{Moment of force}=\text{force}\times\text{distance}$$
+
+or
+
+$$2=5\times r$$
+
+or
+
+$$r=\frac{2}{5}=0.4\,\text{m}$$
+
+3. A mechanic can open a nut by applying a force of 150 N while using a lever handle of length 40 cm. How long handle is required if he wants to open it by applying a force of only 50 N?
+
+In the first case, \(F=150\,\text{N}\), \(r=40\,\text{cm}=0.4\,\text{m}\)
+
+The moment of force needed to open the nut:
+
+$$=150\,\text{N}\times0.4\,\text{m}=60\,\text{N m}$$
+
+In the second case, \(F'=50\,\text{N}\)
+
+If he uses the handle of length \(L\,\text{m}\), then
+
+Moment of force:
+
+$$=50\,\text{N}\times L\,\text{m}=50L\,\text{N m}$$
+
+From equations:
+
+$$60=50L$$
+
+or
+
+$$L=\frac{60}{50}=1.2\,\text{m}$$
+
+4. The iron door of a building is 3 m broad. It can be opened by applying a force of 100 N normally at the middle of the door. Calculate: (a) the torque needed to open the door, (b) the least force and its point of application to open the door.
+
+(a) Given, \(F=100\,\text{N}\), distance of point of application of force,
+
+$$r=\frac{1}{2}\times\text{breadth of door}=\frac{1}{2}\times3\,\text{m}=1.5\,\text{m}$$
+
+Moment of the force needed to open the door:
+
+$$=F\times r=100\,\text{N}\times1.5\,\text{m}=150\,\text{N m}$$
+
+(b) The force required will be least if it is applied at the farthest point from the hinges. Therefore the force should be applied at the free end of the door, i.e., at distance of 3 m from the hinges.
+
+Let the required force be \(F'\).
+
+Moment of force:
+
+$$=F'\times3\,\text{m}$$
+
+From equations:
+
+$$F'\times3=150$$
+
+$$F'=\frac{150}{3}=50\,\text{N}$$
+
+5. The wheel shown in the diagram (Fig. 1.17) has a fixed axle passing through its centre O. The wheel rotates under the action of: (i) a horizontal force \(F_1\) at A, and (ii) a vertical force \(F_2\) at B.
+
+(a) Show the direction of force \(F_1\) in the diagram.
+
+(b) Which of the force \(F_1\) or \(F_2\) is greater?
+
+(c) Find the ratio between the forces \(F_1\) and \(F_2\).
+
+Given: \(AO=2.5\,\text{cm}\), \(BO'=1.5\,\text{cm}\), and \(O'O=2.0\,\text{cm}\).
+
+[Image/Diagram: Fig. 1.17 and Fig. 1.18 — wheel with axle at O, horizontal force at A and vertical force at B.]
+
+(a) The force \(F_1\) applied at A produces a clockwise moment on the wheel. It can be balanced by applying the force \(F_2\) at B in a direction such that it produces an anticlockwise moment. Therefore the vertical force at B should be applied in the downward direction as shown in Fig. 1.18. In equilibrium,
+
+$$F_1\times OA=F_2\times OO'$$
+
+(b) Since the perpendicular distance \(OA\) of point of application of force \(F_1\) from O is greater than the perpendicular distance \(OO'\) of point of application of force \(F_2\) from O, so in magnitude, the force \(F_2\) is greater than the force \(F_1\).
+
+(c) Moment of force \(F_1\) about O:
+
+$$=F_1\times OA \quad \text{(clockwise)}$$
+
+Moment of force \(F_2\) about O:
+
+$$=F_2\times OO' \quad \text{(anticlockwise)}$$
+
+When the wheel is in equilibrium, clockwise moment = anticlockwise moment:
+
+$$F_1\times OA=F_2\times OO'$$
+
+Given, \(OA=2.5\,\text{cm}\), \(OO'=2.0\,\text{cm}\)
+
+Substituting:
+
+$$F_1\times2.5=F_2\times2.0$$
+
+$$\frac{F_2}{F_1}=\frac{2.5}{2.0}=\frac{5}{4}$$
+
+or
+
+$$F_1:F_2=4:5$$
+
+6. The following diagram (Fig. 1.19) shows two parallel and opposite forces \(F_1\) and \(F_2\), each of magnitude 5 N, with their lines of action separated by a distance of 1 m. A point X lies midway between \(F_1\) and \(F_2\), while a point Y lies on \(F_2\).
+
+(a) Calculate the total moment of the two forces about the points (i) X, and (ii) Y.
+
+(b) State the effect produced by the two forces about the points X and Y.
+
+[Image/Diagram: Fig. 1.19 — two equal and opposite parallel forces, point X midway and point Y on one force.]
+
+(a) (i) Perpendicular distance of point X from either of the forces \(F_1\) or \(F_2\) is \(\frac{1}{2}\,\text{m}\).
+
+Moment of force \(F_1\) about X:
+
+$$=5\,\text{N}\times1\,\text{m}=5\,\text{N m}\quad\text{(clockwise)}$$
+
+Moment of force \(F_2\) about X:
+
+$$=5\,\text{N}\times1\,\text{m}=5\,\text{N m}\quad\text{(clockwise)}$$
+
+Hence total moment of the two forces about X:
+
+$$=5+5=10\,\text{N m}\quad\text{(clockwise)}$$
+
+(ii) Since \(Y\) lies on the force \(F_2\), its distance from the force \(F_2\) is 0, while it is 2 m from the force \(F_1\).
+
+Moment of force \(F_1\) about Y:
+
+$$=5\,\text{N}\times2\,\text{m}=10\,\text{N m}\quad\text{(clockwise)}$$
+
+Moment of force \(F_2\) about Y:
+
+$$=0$$
+
+Hence total moment of two forces about Y:
+
+$$=10\,\text{N m}\quad\text{(clockwise)}$$
+
+(b) (i) The effect of the two forces about the point X is to produce clockwise rotation.
+
+(ii) The effect of the two forces about the point Y is to produce clockwise rotation.
+
+7. Two forces each of magnitude 2 N act vertically upwards and downwards respectively at the two ends of a uniform rod of length 1 m which is pivoted at its centre. Draw a diagram of the arrangement and determine the resultant moment of forces about the mid-point of the rod.
+
+[Image/Diagram: Fig. 1.20 — rod AB of length 1 m, pivot O at centre, 2 N forces at A and B in opposite vertical directions.]
+
+Given, \(AB=1\,\text{m}\), \(OA=OB=0.5\,\text{m}\)
+
+Moment of force (\(=2\,\text{N}\)) at A about the point O:
+
+$$=F\times OA=2\times0.5=1.0\,\text{N m}\quad\text{(clockwise)}$$
+
+Moment of force (\(=2\,\text{N}\)) at B about the point O:
+
+$$=F\times OB=2\times0.5=1.0\,\text{N m}\quad\text{(clockwise)}$$
+
+Total moment of forces about the mid-point O:
+
+$$=1.0+1.0=2.0\,\text{N m}\quad\text{(clockwise)}$$
+
+8. A uniform metre rule rests horizontally on a knife edge at the 60 cm mark when a mass of 10 g is suspended from one end. Draw diagram of the arrangement.
+
+(a) At which end must this mass be suspended?
+
+(b) What is the mass of the rule?
+
+[Image/Diagram: Fig. 1.21 — metre rule with knife edge at 60 cm, mass 10 g at 100 cm end, weight Mg at 50 cm centre.]
+
+(a) The 1.21 shows a uniform metre rule AB which rests horizontally on the knife edge at O (60 cm mark). Let M g be the mass of the rule. A uniform rule has same distribution of mass throughout its length, so its weight Mg will act at its middle point i.e., at the 50 cm mark.
+
+The weight Mg of rule produces an anti-clockwise moment about the knife edge O. In order to balance it, 10 g mass must be suspended at the end B (i.e., at the mark 100 cm) to produce a clockwise moment about the knife edge O.
+
+(b) From the principle of moments,
+
+Anticlockwise moment = Clockwise moment
+
+$$Mg\times(60-50)=10g\times(100-60)$$
+
+or
+
+$$M\times10=10\times40$$
+
+or
+
+$$M=40\,\text{g}$$
+
+9. On a see-saw, two children of masses 30 kg and 50 kg are sitting on one side of it at distances 2 m and 2.5 m respectively from its middle. Where should a man of mass 74 kg sit to balance it?
+
+Let two children be sitting on the left arm. They will produce anticlockwise moment due to their weights about the middle point of see-saw.
+
+Total anticlockwise moment:
+
+$$=30\,\text{kgf}\times2\,\text{m}+50\,\text{kgf}\times2.5\,\text{m}$$
+
+$$=60\,\text{kgf m}+125\,\text{kgf m}=185\,\text{kgf m}$$
+
+To balance it, the man should sit on the right arm so as to produce a clockwise moment about the middle point. Let his distance from the middle be \(x\,\text{m}\). Then,
+
+Clockwise moment:
+
+$$=74\,\text{kgf}\times x\,\text{m}=74x\,\text{kgf m}$$
+
+By the principle of moments, in equilibrium:
+
+Anticlockwise moment = Clockwise moment
+
+$$185=74x$$
+
+or
+
+$$x=\frac{185}{74}=2.5\,\text{m}$$
+
+The man should sit at a distance 2.5 m from the middle point on the other side.
+
+10. Fig. 1.22 below shows a uniform metre rule AB pivoted at its end A at the zero mark and supported at the other end B by a spring balance. A weight of 40 kgf is suspended at its 40 cm mark. This rule stays horizontal. Find the reading of the spring balance when the rule is of (i) negligible mass, (ii) mass 20 kg.
+
+[Image/Diagram: Fig. 1.22 — metre rule AB pivoted at 0 cm, spring balance at 100 cm, 40 kgf at 40 cm mark.]
+
+(i) When the rule is of negligible mass.
+
+In the absence of support at the end B by the spring balance, the rule will turn clockwise about the pivot A due to weight 40 kgf at the 40 cm mark. To keep the rule in equilibrium (i.e., horizontal), a force F kgf is needed upwards at the end B as shown in Fig. 1.23, which is provided by the spring balance. So the reading of spring balance will be F.
+
+[Image/Diagram: Fig. 1.23 — spring balance exerts upward force F at 100 cm; 40 kgf acts at 40 cm.]
+
+In equilibrium, as shown in Fig. 1.23,
+
+Clockwise moment about the point A = Anticlockwise moment about the point A
+
+or
+
+$$40\,\text{kgf}\times40\,\text{cm}=F\times100\,\text{cm}$$
+
+$$F=\frac{40\times40}{100}\,\text{kgf}=16\,\text{kgf}$$
+
+Thus the reading of spring balance will be 16 kgf.
+
+(ii) When the rule is of mass 20 kg i.e., weight 20 kgf.
+
+The weight 20 kgf of the rule will act at the 50 cm mark, since the metre rule is uniform. As shown in Fig. 1.24, both the weight 40 kgf and the weight of rule 20 kgf produce clockwise moments about the point A, so a force F is needed upwards at the end B to keep the rule horizontal.
+
+[Image/Diagram: Fig. 1.24 — 40 kgf at 40 cm, 20 kgf rule weight at 50 cm, spring balance force F at 100 cm.]
+
+In equilibrium, as shown in Fig. 1.24,
+
+Total clockwise moment about the point A = Anticlockwise moment about the point A
+
+or
+
+$$40\,\text{kgf}\times40\,\text{cm}+20\,\text{kgf}\times50\,\text{cm}=F\times100\,\text{cm}$$
+
+$$F=\frac{40\times40+20\times50}{100}\,\text{kgf}=26\,\text{kgf}$$
+
+Thus the reading of spring balance will be 26 kgf.
+
+EXERCISE-1(A)
+
+1. State the condition when on applying a force, the body has: (a) the translational motion, (b) the rotational motion.
+
+Ans. (a) When the body is free to move. (b) When the body is pivoted at a point.
+
+2. Define moment of force and state its S.I. unit.
+
+3. State whether the moment of force is a scalar or vector quantity.
+
+Ans. Vector quantity.
+
+4. State two factors affecting the turning effect of a force.
+
+5. When does a body rotate? State one way to change the direction of rotation of the body. Give a suitable example to explain your answer.
+
+6. Write the expression for the moment of force about a given axis.
+
+7. State one way to reduce the moment of a given force about a given axis of rotation.
+
+8. State one way to obtain a greater moment of a force about a given axis of rotation.
+
+9. What do you understand by the clockwise and the anticlockwise moment of force? When is it taken positive?
+
+10. Why is it easier to open a door by applying the force at the free end of it?
+
+11. The stone of a hand flour grinder is provided with a handle near its rim. Give reason.
+
+12. It is easier to turn the steering wheel of a large diameter than that of a small diameter. Give reason.
+
+13. A spanner (or wrench) has a long handle. Why?
+
+14. A, B and C are the three forces in the diagram (Fig. 1.25). The point O lies in the same plane.
+
+(a) Which force has the least moment about O? Give reason.
+
+(b) Which force has the greatest moment about O? Give reason.
+
+(c) Name the forces producing: (i) clockwise moment, (ii) anticlockwise moment about the point O.
+
+Ans. (i) C, because the force C is nearest to O. (ii) A, because the force A is farthest from O. (iii) (a) A and B, (b) C (iv) 4 N m (clockwise).
+
+[Image/Diagram: Fig. 1.25 — three forces A, B and C acting with different perpendicular distances from point O.]
+
+15. The diagram (Fig. 1.26) shows a wheel with its axle at O, which is to be raised on a pavement XY by applying a minimum possible force. Show by an arrow on the diagram the point of application and the direction of force to be applied.
+
+[Image/Diagram: Fig. 1.26 — wheel with axle O near pavement XY.]
+
+16. A body is acted upon by two forces each of magnitude F, but in opposite directions. State the effect of the forces if: (a) both forces act at the same point of the body, (b) the two forces act at two different points of the body at a separation r.
+
+Ans. (a) Resultant force = 0, moment of forces = 0, no motion. (b) Resultant force = 0, moment of forces = Fr. The forces tend to rotate the body about the mid-point between the two forces.
+
+17. Draw a neat labelled diagram to show the direction of two forces acting on a body to produce rotation in it. Also mark the point O about which the rotation takes place.
+
+18. What do you understand by the term couple? State its effect. Give two examples of couple action in our daily life.
+
+19. Define moment of couple. Write its S.I. unit.
+
+20. Prove that:
+
+$$\text{Moment of couple}=\text{Force}\times\text{couple arm}$$
+
+21. What do you mean by equilibrium of a body?
+
+22. State the condition when a body is in (i) static, (ii) dynamic equilibrium. Give one example of each of static and dynamic equilibrium.
+
+23. State two conditions for a body, acted upon by several forces, to be in equilibrium.
+
+24. State the principle of moments. Give one device as application of it.
+
+25. Describe a simple experiment to verify the principle of moments, if you are supplied with a metre rule, a fulcrum and two springs with slotted weights.
+
+26. Complete the following sentences:
+
+(i) The S.I. unit of moment of force is ______.
+
+(ii) In equilibrium algebraic sum of moments of all forces about the point of rotation is ______.
+
+(iii) In a beam balance when the beam is balanced in a horizontal position, it is in ______ equilibrium.
+
+(iv) The moon revolving around the earth is in ______ equilibrium.
+
+Ans. (i) N m (ii) Zero (iii) Static (iv) Dynamic
+
+MULTIPLE CHOICE TYPE
+
+1. The moment of a force about a given axis depends: (a) only on the magnitude of force, (b) only on the perpendicular distance of force from the axis, (c) neither on the force nor on the perpendicular distance of force from the axis, (d) both, on the force and its perpendicular distance from the axis.
+
+Ans. (d) both, on the force and its perpendicular distance from the axis.
+
+2. A body is acted upon by two unequal forces in opposite directions, but not in same line. The effect is that: (a) the body will have only the rotational motion, (b) the body will have only the translational motion, (c) the body will have neither the rotational motion nor the translational motion, (d) the body will have rotational as well as translational motion.
+
+Ans. (d) the body will have rotational as well as translational motion.
+
+NUMERICALS
+
+Note: For a uniform rod, its weight acts at its mid-point.
+
+1. The moment of a force of 10 N about a fixed point O is 5 N m. Calculate the distance of the point O from the line of action of the force.
+
+Ans. 0.5 m
+
+2. A nut is opened by a wrench of length 10 cm. If the least force required is 5.0 N, find the moment of force needed to turn the nut.
+
+Ans. 0.5 N m
+
+3. A wheel of diameter 2 m is shown in Fig. 1.27 with axle at O. A force F = 2 N is applied at B in the direction shown in figure. Calculate the moment of force about (i) the centre O, and (ii) the point A.
+
+Ans. (i) 2 N m (clockwise), (ii) 4 N m (clockwise)
+
+[Image/Diagram: Fig. 1.27 — wheel of diameter 2 m with force 2 N applied at B.]
+
+4. The diagram in Fig. 1.28 shows two forces F1 = 5 N and F2 = 3 N acting at points A and B of a rod pivoted at point O, such that OA = 2 m and OB = 4 m. Calculate: (i) the moment of force F1 about O, (ii) the moment of force F2 about O, (iii) total moment of the two forces about O.
+
+Ans. (i) 10 N m (anticlockwise), (ii) 12 N m (clockwise), (iii) 2 N m (clockwise)
+
+[Image/Diagram: Fig. 1.28 — rod pivoted at O with 5 N at A and 3 N at B.]
+
+5. Two forces each of magnitude 10 N act vertically upwards and downwards respectively at the two ends A and B of a uniform rod of length 4 m which is pivoted at its mid point O as shown in Fig. 1.29. Determine the magnitude of resultant moment of forces about the pivot O.
+
+Ans. 40 N m (clockwise)
+
+[Image/Diagram: Fig. 1.29 — rod AB, 10 N forces at A and B, pivot O in middle.]
+
+6. Fig. 1.30 shows two forces each of magnitude 10 N acting at the points A and B at a separation of 50 cm, in opposite directions. Calculate the resultant moment of the two forces about the point O, (i) at the end, (ii) situated exactly at the middle of the two forces.
+
+Ans. (i) 5 N m clockwise, (ii) 5 N m clockwise.
+
+[Image/Diagram: Fig. 1.30 — two 10 N opposite parallel forces separated by 50 cm.]
+
+7. A steering wheel of diameter 0.5 m is rotated anticlockwise by applying two forces each of magnitude 5 N. Draw a diagram to show the application of forces and calculate the moment of the forces applied.
+
+Ans. 2.5 N m
+
+8. A uniform metre rule is pivoted at its mid-point. A weight of 50 gf is suspended at one end of it. Where should a weight of 100 gf be suspended to keep the rule horizontal?
+
+Ans. At distance 25 cm from the other end.
+
+9. A uniform metre rule balanced horizontally on a knife edge placed at the 58 cm mark when a weight of 20 gf is suspended from one end.
+
+(i) Draw a diagram of the arrangement.
+
+(ii) What is the weight of the rule?
+
+Ans. 105 gf
+
+10. The diagram below (Fig. 1.31) shows a uniform bar supported at the middle point O. A weight of 40 gf is placed at a distance 40 cm to the left of the point O. How can you balance the bar with a weight of 80 gf?
+
+Ans. By placing the weight of 80 gf at a distance 20 cm to the right of the point O.
+
+[Image/Diagram: Fig. 1.31 — uniform bar with point O and 40 gf load at 40 cm left.]
+
+11. Fig. 1.32 shows a uniform metre rule placed on a fulcrum at its mid-point O and having a weight 40 gf at the 10 cm mark and a weight of 20 gf at the 90 cm mark. Is the metre rule in equilibrium? If not, how will the rule turn? Give your answer with reason.
+
+Ans. No. The rule will turn anticlockwise. By placing the additional weight of 40 gf at the 70 cm mark.
+
+[Image/Diagram: Fig. 1.32 — metre rule with 40 gf at 10 cm and 20 gf at 90 cm.]
+
+12. When a boy weighing 20 kgf sits at one end of a 4 m long see-saw, it gets depressed at this end. How can it be brought to the horizontal position by a man weighing 40 kgf?
+
+Ans. By sitting on it at a distance 1 m from the centre on the side opposite to the boy.
+
+13. A physical balance has its arms of length 60 cm and 40 cm. What weight kept on pan of longer arm will balance an object of weight 100 gf kept on other pan?
+
+Ans. 66.67 gf
+
+14. The diagram below (Fig. 1.33) shows a uniform metre rule weighing 100 gf, pivoted at its centre O. Two weights 150 gf and 250 gf hang from the points A and B of the metre rule such that OA = 40 cm and OB = 20 cm. Calculate: (i) the total anticlockwise moment about O, (ii) the total clockwise moment about O, (iii) the difference of anticlockwise and clockwise moments, and (iv) the distance from O where a 100 gf weight should be placed to balance the metre rule.
+
+Ans. (i) 6000 gf cm, (ii) 5000 gf cm, (iii) 1000 gf cm, (iv) 10 cm on the right side of O.
+
+[Image/Diagram: Fig. 1.33 — metre rule pivoted at centre O, 150 gf and 250 gf at different distances.]
+
+15. A uniform metre rule of weight 10 gf is pivoted at its 0 mark.
+
+(i) What moment of force depresses the rule?
+
+(ii) How can it be made horizontal by applying a least force?
+
+Ans. (i) 500 gf cm, (ii) By applying a force 5 gf upwards at the 100 cm mark.
+
+16. A uniform metre rule balanced at the 70.0 cm mark when a mass 0.05 kg is hung from the 94.0 cm mark.
+
+(a) Draw a diagram of the arrangement.
+
+(b) Find the mass of the metre rule.
+
+Ans. (b) 0.06 kg
+
+17. A uniform metre rule of mass 100 g is balanced on a fulcrum at mark 40 cm by suspending an unknown mass m at the mark 20 cm.
+
+(i) Find the value of m.
+
+(ii) To which side the rule will tilt if the mass m is moved to the mark 10 cm?
+
+(iii) What is the resultant moment now?
+
+(iv) How can it be balanced by another mass of 50 g?
+
+Ans. (i) 50 g, (ii) on the side of mass m, (iii) 500 gf cm or 0.005 kgf m anticlockwise, (iv) by suspending the mass 50 g at the mark 50 cm.
+
+18. In Fig. 1.34, a uniform bar of length l m is supported at its ends and loaded by a weight W kgf at its middle. In equilibrium, find the reactions R1 and R2 at the ends.
+
+Hint: In equilibrium, \(R_1+R_2=W\), and \(R_1\times\frac{l}{2}=R_2\times\frac{l}{2}\).
+
+Ans. \(R_1=\frac{W}{2}\,\text{kgf}\) and \(R_2=\frac{W}{2}\,\text{kgf}\).
+
+[Image/Diagram: Fig. 1.34 — uniform bar supported at ends with central load W.]
+
+(B) CENTRE OF GRAVITY
+
+1.6 CENTRE OF GRAVITY
+
+We have read in class IX that the gravitational force is always attractive, so the earth attracts every particle towards its centre by the force of gravity on the particle (= weight w). A body can be considered to be made up of a large number of particles of weight \(w_1, w_2, w_3, \ldots\). As the size of the body is quite small in comparison to the size of the earth, the force of gravity \(w\) acting on these particles can be assumed to be parallel to each other as shown in Fig. 1.35. All these parallel forces acting in the same direction (i.e., vertically downwards towards the centre of earth) can be replaced by a single resultant force of magnitude equal to the sum of all these forces i.e., equal to the entire weight W \((=w_1+w_2+w_3+\ldots)\) of the body. Now the question arises where should this weight W act? The weight W is considered to act at a point G such that the algebraic sum of moments due to weights \(w_1,w_2,\ldots\) of each particle about the point G is zero. The point G is called the centre of gravity of the body. In other words, the body can be considered as a point particle of weight W placed at its centre of gravity G. Thus:
+
+The centre of gravity (C.G.) of a body is the point about which the algebraic sum of moments of weights of all the particles constituting the body is zero. The entire weight of the body can be considered to act at this point, irrespective of the position of the body.
+
+[Image/Diagram: Fig. 1.35 Centre of gravity — multiple particle weights combine into resultant weight W acting at G.]
+
+Note: (1) The position of the centre of gravity of a body of given mass depends on its shape i.e., on the distribution of mass of particles in it. It changes if the body is deformed.
+
+Example 1: The centre of gravity of a uniform wire is at the middle of its length. But if the same wire is bent into the form of a circle, its centre of gravity will then be at the centre of the circle.
+
+(2) It is not necessary that the centre of gravity always be within the material of the body.
+
+Example 2: The centre of gravity of a ring or a hollow sphere lies at its centre where there is no material.
+
+(3) By the concept of centre of gravity, a body of weight W can be considered as a point particle of weight W at its centre of gravity.
+
+Centre of gravity of some regular objects
+
+Object | Position of centre of gravity
+--- | ---
+Rod | Mid-point of rod.
+Circular disc | Geometric centre.
+Solid or hollow sphere | Geometric centre of the sphere.
+Solid or hollow cylinder | Mid-point on the axis of cylinder.
+Solid cone | At a height \(h/4\) from the base, on its axis, where \(h\) is height of cone.
+Hollow cone | At a height \(h/3\) from the base, on its axis, where \(h\) is height of cone.
+Circular ring | Centre of ring.
+Triangular lamina or scalene triangle | The point of intersection of medians.
+Parallelogram, rectangle, square or rhombus | The point of intersection of the diagonals.
+
+[Image/Diagram: Fig. 1.36 Centre of gravity of some regular objects — circular ring, circular disc, triangular lamina, rectangle, parallelogram, square, rod and cylinder with marked G.]
+
+Fig. 1.36 shows the position of the centre of gravity \(G\) for a circular ring, a circular disc, a triangular lamina, a rectangle, a parallelogram, a square lamina, a rod, and a cylinder.
+
+Centre of gravity and the balance point
+
+A solid body can be balanced by supporting it at its centre of gravity. For example, a uniform metre rule has its centre of gravity at the mark 50 cm. It can be balanced on a knife edge (or finger tip) by keeping it exactly below the 50 cm mark as shown in Fig. 1.37. It is possible because the algebraic sum of moments of the weights of all particles of rule about the knife edge (or finger tip) is zero.
+
+[Image/Diagram: Fig. 1.37 A metre rule supported on a knife edge — balanced at 50 cm mark.]
+
+Similarly, a square thin sheet (or lamina) can be balanced on the tip of a nail as shown in Fig. 1.38.
+
+[Image/Diagram: Fig. 1.38 A square sheet balanced on the tip of a nail — centre of gravity vertically above the nail.]
+
+If a body is freely suspended from a point, it comes to rest (i.e., balances) in such a position that its centre of gravity lies vertically below the point of suspension. This fact can be used to locate the position of centre of gravity of an irregular lamina.
+
+Determination of centre of gravity of an irregular lamina by the method of balance using a plumb line
+
+Let A be an irregular lamina in Fig. 1.39, for which the position of centre of gravity is to be determined. Make three fine holes at a, b and c, near the edge of the lamina. Now suspend the given lamina along with a plumb line from the hole a using a pin (or a nail) clamped horizontally on a retort stand. Check that the lamina is free to oscillate on the nail about the point of suspension. When lamina has come to rest, draw a straight line ad along the plumb line.
+
+Repeat the procedure by suspending the lamina through the hole b and then through the hole c for which we get straight lines be and cf respectively. It is noticed that the lines ad, be and cf intersect each other at a common point G which is the position of centre of gravity of the lamina.
+
+[Image/Diagram: Fig. 1.39 Centre of gravity of irregular lamina — plumb-line method using suspension holes a, b, c and intersecting vertical lines at G.]
+
+EXERCISE-1(B)
+
+1. Define the term 'centre of gravity of a body'.
+
+2. Can centre of gravity of a body be situated outside its material? Give an example.
+
+Ans. Yes, e.g. C.G. of a ring.
+
+3. State factor on which the position of centre of gravity of a body depends. Explain your answer with an example.
+
+4. What is the position of centre of gravity of a (i) rectangular lamina, (ii) cylinder?
+
+Ans. (a) At the point of intersection of its diagonals. (b) At the mid point on the axis of cylinder.
+
+5. At which point is the centre of gravity situated in: (a) a triangular lamina, and (b) a circular lamina?
+
+Ans. (a) At the point of intersection of its medians. (b) At the centre of circular lamina.
+
+6. Where is the centre of gravity of a uniform ring situated?
+
+Ans. At the centre of ring.
+
+7. A square card board is suspended by passing a pin through a narrow hole at its one corner. Draw a rough diagram to show its rest position. In the diagram, mark the point of suspension by the letter S and the centre of gravity by the letter G.
+
+8. Explain how you will determine experimentally the position of centre of gravity for a triangular lamina (or a triangular piece of card board).
+
+9. State whether the following statements are true or false:
+
+(i) The position of centre of gravity of a body remains unchanged even when the body is deformed.
+
+(ii) The centre of gravity of a freely suspended body always lies vertically below the point of suspension.
+
+Ans. (i) False (ii) True.
+
+10. A uniform flat circular rim is balanced on a sharp vertical nail by supporting it at a point A, as shown in Fig. 1.40. Mark the position of centre of gravity of the rim in the diagram by the letter G.
+
+[Image/Diagram: Fig. 1.40 — circular rim clamped to wall and supported at point A; mark G vertically below suspension point.]
+
+11. Fig. 1.41 shows three pieces of card board of uniform thickness cut into three different shapes. On each diagram draw two lines to indicate the position of centre of gravity G.
+
+[Image/Diagram: Fig. 1.41 — rectangle, triangle and circle pieces of cardboard for marking centre of gravity.]
+
+MULTIPLE CHOICE TYPE
+
+1. The centre of gravity of a uniform ball is: (a) at its geometrical centre, (b) at its bottom, (c) at its topmost point, (d) at any point on its surface.
+
+Ans. (a) at its geometrical centre.
+
+2. The centre of gravity of a hollow cone of height h is at a distance x from its vertex where the value of x is: (a) \(h/3\), (b) \(h/4\), (c) \(2h/3\), (d) \(3h/4\).
+
+Ans. (c) \(2h/3\).
+
+(C) UNIFORM CIRCULAR MOTION
+
+1.7 UNIFORM CIRCULAR MOTION
+
+When a particle moves with a constant speed in a circular path, its motion is said to be the uniform circular motion. In such a motion, the particle travels equal distance along the circular path in equal intervals of time, so the speed of particle is uniform, but the direction of motion of the particle changes at each point of circular path. The continuous change in direction of motion implies that the velocity of particle is non-uniform (or variable) i.e., the motion is accelerated.
+
+Direction of velocity at any instant in circular path: Fig. 1.42 shows a particle moving in a circular path in a horizontal plane with uniform speed v in the anticlockwise direction. The particle travels each quarter of circle AB, BC, CD and DA in same interval of time \(t=T/4\) where T is the time taken by the particle in one round of the circular path. Thus, the speed of particle is constant (or uniform), but the direction of motion of the particle is different at different points of the circular path. At any point, the direction of motion is along the tangent drawn at that point of the circular path.
+
+[Image/Diagram: Fig. 1.42 Direction of velocity in uniform circular motion — circular path ABCD with tangential velocity directions and compass directions.]
+
+At the point A, the direction of motion of the particle is towards north; after completing quarter of circle, at the point B, the direction of motion of particle is towards west. On completing half circle, at the point C, the direction of motion of particle is towards south and after completing three-quarters of circle when the particle is at the point D, its direction of motion is towards east. Thus, the velocity of particle in circular motion is variable or the circular motion is accelerated even though the speed of particle is uniform.
+
+Difference between the uniform circular motion and uniform linear motion: In uniform linear motion, the speed and velocity are constant and acceleration is zero i.e., the uniform linear motion is an unaccelerated motion, while in a uniform circular motion the velocity is variable (although speed is uniform), so it is an accelerated motion.
+
+1.8 CENTRIPETAL AND CENTRIFUGAL FORCE
+
+Centripetal force: We have read that in a linear motion, a force is needed to change the direction of motion of a particle (or to change the velocity of the particle) i.e., to produce acceleration. In circular motion, at each point of circular path, the particle continuously changes its direction of motion. This change in direction of motion can not be brought without a force. Thus, the motion in circular path is possible only under the influence of a force which is termed as the centripetal force. At each point of circular path, this force is directed towards the centre of the circle as shown in Fig. 1.43. Thus the direction of acceleration also changes at each point of the circular path, but its magnitude remains the same i.e., the acceleration is variable (or non-uniform). Hence for a body moving in a circular path, a force is needed which acts as the centripetal force.
+
+[Image/Diagram: Fig. 1.43 Direction of force in uniform circular motion — centripetal force directed towards the centre at points A, B, C and D.]
+
+The word centripetal means centre seeking.
+
+Examples:
+
+(1) In an atom, an electron moves around the nucleus in a circular path for which the centripetal force is obtained from the electrostatic force of attraction on the negatively charged electrons by the positively charged nucleus.
+
+(2) A planet moves around the sun in a circular path for which the gravitational force of attraction on the planet by the sun provides the necessary centripetal force.
+
+(3) The moon moves around the earth in a circular path for which the gravitational force of attraction on the moon by the earth provides the centripetal force.
+
+(4) When a stone tied at the end of a string is whirled in a circular path, the tension in the string holding the stone at the other end, provides the centripetal force. If this force is not present, the stone will not turn to move in the circular path.
+
+In all the above examples, the body moves in a circular path with a uniform speed under the influence of a centripetal force and it is in dynamic equilibrium.
+
+Centrifugal force: A force acting on a body away from the centre of circular path is called a centrifugal force. Thus centrifugal force is in a direction opposite to the direction of centripetal force. Its magnitude is same as that of the centripetal force. But centrifugal force is the force of reaction of the centripetal force because action and reaction do not act on the same body. It is not the real force, but is a fictitious force assumed by an observer moving in circular path alongwith the body. To understand this force, consider the following experiment.
+
+Experiment: Fig. 1.44 shows a ball tied at one end of a string, the other end of which is tied at the centre of a merry-go-round. Initially when the platform of merry-go-round is stationary, the ball is seen stationary and the string is loose. As the platform starts rotating, the string becomes tight due to tension T in it. The motion of ball is observed by two persons (i) standing outside the merry-go-round on the ground at M, and (ii) standing on the platform of merry-go-round at A.
+
+[Image/Diagram: Fig. 1.44 A ball tied at the end of a string moving in a circular path on a merry-go-round — observer M on ground and observer A on rotating platform.]
+
+The person standing at M outside the merry-go-round on the ground observes that the ball is moving in a circular path (shown by dotted line), while the person standing on the merry-go-round A observes that the ball is stationary placed just in front of him at P. As the merry-go-round rotates the position of person on the platform changes to A', A'', A''' ... and the ball reaches at the position P', P'', P''' ... respectively, as if it remains at rest always just in front of him. The different observations of the same motion by the two persons at M and A are explained as follows:
+
+Explanation: For the person at M, the ball moves in a circular path because the tension T in the string provides the centripetal force needed for the circular motion.
+
+The person at A observes the ball stationary. He considers following two forces to understand his observation:
+
+(i) the tension T in the string, towards the centre of merry-go-round, and
+(ii) the centrifugal force on the string away from the centre.
+
+The above two forces are equal and opposite, therefore the net force on the ball is zero. Hence it always remains stationary in front of him. Thus, a person on the rotating platform can explain his observation only by considering the centrifugal force.
+
+Case: If the string breaks when the ball is in position P as shown in Fig. 1.45, the force of tension T in string ceases to act. Now the person at M standing on the ground will observe that the ball is moving in a straight line along the path PP' (tangent drawn at the point P on the circular path), while the person standing on the merry-go-round will observe the ball at positions P', P'', P''' ... when he will be at positions A', A'', A''' ... respectively i.e., he will observe that the ball always remains in front of him moving radially away from him as if a centrifugal force acts on the ball away from the centre. Thus the person in rotating frame (merry-go-round) has to assume the presence of the centrifugal force.
+
+[Image/Diagram: Fig. 1.45 Centrifugal force — if the string breaks, outside observer sees tangent motion; rotating observer sees radial outward motion.]
+
+Conclusion: The centrifugal force is not a real force, it is a fictitious force. The only force involved here is the force of tension in the string acting towards the centre (i.e., the centripetal force). A force which really does not exist, but is considered to describe (or understand) a certain motion, is called a fictitious force (or virtual force).
+
+EXERCISE-1(C)
+
+1. Explain the meaning of uniform circular motion. Give one example of such motion.
+
+2. Draw a neat labelled diagram for a particle moving in a circular path with a constant speed. In your diagram show the direction of velocity at any instant.
+
+3. Is it possible to have an accelerated motion with a constant speed? Name such type of motion.
+
+Ans. Yes, uniform circular motion.
+
+4. Give an example of motion in which speed remains uniform, but velocity changes.
+
+5. A uniform circular motion is an accelerated motion. Explain it. State whether the acceleration is uniform or variable? Name the force responsible to cause this acceleration. What is the direction of force at any instant?
+
+6. Is centripetal force a force of attraction or repulsion? Give an example.
+
+7. Name the force required for circular motion. State its direction.
+
+8. What is a centripetal force?
+
+9. Explain the motion of a planet around the sun in a circular path.
+
+10. (a) With reference to the direction of action, how does a centripetal force differ from a centrifugal force?
+
+(b) Is centripetal force the force of reaction of centripetal force?
+
+(c) Compare the magnitudes of centripetal and centrifugal force.
+
+Ans. (a) They act in opposite directions. (b) No. (c) Equal.
+
+11. Is centrifugal force a real force?
+
+Ans. No.
+
+12. A small pebble tied at one end of a string is placed near the periphery of a circular disc at the centre of which the other end of the string is tied. The disc is rotating about an axis passing through its centre.
+
+(a) What will be your observation when you are standing outside the disc? Explain.
+
+(b) What will be your observation when you are standing at the centre of the disc? Explain.
+
+Ans. (a) The pebble moves in a circular path because the tension in the string provides the required centripetal force. (b) The pebble is stationary just in front because the centrifugal force on the pebble balances the tension in string.
+
+13. A piece of stone tied at the end of a thread is whirled in a horizontal circle with uniform speed with the help of hand. Answer the following questions:
+
+(a) Is the velocity of stone uniform or variable?
+
+(b) Is the acceleration of stone uniform or variable?
+
+(c) What is the direction of acceleration of stone at any instant?
+
+(d) What force does provide the centripetal force required for circular motion?
+
+(e) Name the force and its direction which acts on the hand.
+
+Ans. (a) variable, (b) variable, (c) towards the centre of circular path, (d) tension in string, (e) the reaction of tension away from the centre of the circular path.
+
+14. State two differences between the centripetal and centrifugal force.
+
+15. State whether the following statements are true or false by writing T/F against them.
+
+(a) The earth moves around the sun with a uniform velocity.
+
+(b) The motion of moon around the earth in circular path is an accelerated motion.
+
+(c) A uniform linear motion is unaccelerated, while a uniform circular motion is an accelerated motion.
+
+(d) In a uniform circular motion, the speed continuously changes because the direction of motion changes.
+
+Ans. (a) F (b) T (c) T (d) F
+
+MULTIPLE CHOICE TYPE
+
+1. Which of the following quantity remains constant in uniform circular motion: (a) velocity, (b) speed, (c) acceleration, (d) both velocity and speed.
+
+Ans. (b) speed.
+
+2. The centrifugal force is: (a) a real force, (b) the force of reaction of centripetal force, (c) a fictitious force, (d) directed towards the centre of circular path.
+
+Ans. (c) a fictitious force.
