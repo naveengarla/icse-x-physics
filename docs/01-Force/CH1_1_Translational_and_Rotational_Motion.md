@@ -101,17 +101,8 @@ When force is applied to each —
 
 ---
 
-## 🖼️ Image Prompt 1
+<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/0cfdcbfa-7cbf-4c59-98cd-9797e89c6686" />
 
-```
-[IMAGE PROMPT]
-Scene: A split-screen educational illustration in a warm classroom setting.
-LEFT PANEL: A cricket ball on a wooden floor receiving a force arrow (red, bold, labeled "Force F") pointing horizontally. The ball has multiple small blue arrows showing ALL parts of the ball moving together in the same direction — same speed, same angle. Label overlay: "TRANSLATIONAL MOTION — Every particle moves equally."
-RIGHT PANEL: A door viewed from above (top-down blueprint style). A hinge is marked with a golden star at the left edge. A red force arrow pushes the right edge of the door. Small blue arrows show particles at different distances from the hinge moving at DIFFERENT arc lengths — the outer edge sweeps a large arc, the middle sweeps a smaller arc, the hinge stays still. Label overlay: "ROTATIONAL MOTION — Particles trace different arcs. Hinge stays fixed."
-CENTER: A single question mark floating between the two panels.
-Characters: Mira on the left side observing the ball with a magnifying glass. Arjun on the right side watching the door, chin in hand.
-Style: Textbook-quality educational comic with blueprint grid lines in the background. Warm amber lighting. Clean labels with arrows. 2:3 vertical ratio. Print-friendly.
-```
 
 ---
 
