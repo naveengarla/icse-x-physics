@@ -105,19 +105,8 @@ You push a door. The door rotates.
 
 ---
 
-## 🖼️ Image Prompt 2
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/f0c31453-cbb7-4fa3-84be-9b3ac8b673df" />
 
-```
-[IMAGE PROMPT]
-Scene: A warm-lit physics lab with a wooden plank balanced on a triangular pivot (fulcrum).
-LEFT SIDE: Arjun pushing DOWN very close to the pivot (2 cm away). Large red force arrow pointing down. Label: "Large Force F — Small Distance d". Result: The opposite end barely lifts. A thought bubble shows "❌ Barely works."
-RIGHT SIDE: Mira using ONE FINGER, pushing far from the pivot (~90 cm away). Small red force arrow. Label: "Small Force F — Large Distance d". Result: A 500g weight on the opposite end lifts high. A thought bubble shows "✅ Works easily!"
-CENTER FOCUS: The pivot/wedge with a golden star. Dotted lines showing the distance 'd' from pivot to each force arrow.
-BOTTOM CALLOUT BOX: "Same plank. Same pivot. Different distances → Completely different result."
-Characters: Arjun looking surprised/annoyed. Mira looking calm and confident.
-Professor Magnus in the background with a knowing smile, chalk in hand.
-Style: Split-panel educational comic. Blueprint grid background. Warm amber classroom tones. Clear distance labels. Vertical 2:3 ratio. Print-friendly.
-```
 
 ---
 
@@ -210,19 +199,10 @@ That perpendicular distance — from pivot to the line of action — is called t
 
 ---
 
-## 🖼️ Image Prompt 3
+## 🖼️ Image 3
 
-```
-[IMAGE PROMPT]
-Scene: A top-view (bird's eye) blueprint diagram of a door with a hinge at the top-left corner.
-THREE SCENARIOS shown side by side:
-LEFT: Force F pushes perpendicular to door at far edge. Dotted perpendicular line from hinge to line of action = full door width "d". Label: "Maximum Turning Effect — d is maximum."
-MIDDLE: Force F pushes at 45° angle from far edge. Extended line of action shown as dashed infinite line. Perpendicular dropped from hinge to this line = shorter distance "d₂". Label: "Reduced Turning Effect — d₂ < d."
-RIGHT: Force F pushes directly toward the hinge (along the door surface from edge toward hinge). Line of action passes THROUGH the hinge. Perpendicular distance = 0. Label: "ZERO Turning Effect — d = 0."
-CALLOUT: "The Moment Arm (d) is the PERPENDICULAR distance from the pivot to the LINE OF ACTION — not the distance to the hand."
-Newton the Cat illustrated in the corner looking confused at the rightmost diagram.
-Style: Blueprint grid. Dark background with white lines. Color-coded arrows (red for force, blue for perpendicular, green for line of action). Vertical 2:3 ratio. Technical but clear.
-```
+<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/883129c4-d401-43b0-89a1-0258db0b12d9" />
+
 
 ---
 
