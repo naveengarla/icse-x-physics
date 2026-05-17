@@ -6,9 +6,6 @@ repo_url: https://github.com/naveengarla/icse-x-physics
 repo_name: naveengarla/icse-x-physics
 edit_uri: edit/main/
 
-docs_dir: .
-site_dir: site
-
 theme:
   name: material
   palette:
