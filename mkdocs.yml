@@ -1,0 +1,83 @@
+site_name: ICSE Class X Physics
+site_description: Selina Concise Physics – Class X ICSE study notes
+site_url: https://naveengarla.github.io/icse-x-physics/
+
+repo_url: https://github.com/naveengarla/icse-x-physics
+repo_name: naveengarla/icse-x-physics
+edit_uri: edit/main/
+
+docs_dir: .
+site_dir: site
+
+theme:
+  name: material
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: blue
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: blue
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+
+plugins:
+  - search
+
+markdown_extensions:
+  - admonition
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.superfences
+  - pymdownx.details
+  - attr_list
+
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
+
+nav:
+  - Home: README.md
+  - Chapters:
+    - "01 · Force":
+      - Overview: 01-Force/README.md
+      - "§1.1 Translational & Rotational Motion": 01-Force/CH1_1_Translational_and_Rotational_Motion.md
+      - "§1.2 Moment of Force / Torque": 01-Force/CH1_2_Moment_of_Force_Torque.md
+      - "§1.3 Couple": 01-Force/CH1_3_Couple.md
+      - "§1.4 Equilibrium": 01-Force/CH1_4_Equilibrium.md
+      - "§1.5 Principle of Moments": 01-Force/CH1_5_Principle_of_Moments.md
+      - "§1.6 Centre of Gravity": 01-Force/CH1_6_Centre_of_Gravity.md
+      - "§1.7 Uniform Circular Motion": 01-Force/CH1_7_Uniform_Circular_Motion.md
+      - "§1.8 Centripetal & Centrifugal": 01-Force/CH1_8_Centripetal_and_Centrifugal.md
+      - "Board Revision & Practice": 01-Force/CH1_9_Board_Revision_and_Solved_Practice.md
+      - "Mini Challenge Answer Key": 01-Force/CH1_10_Mini_Challenge_Answer_Key.md
+    - "02 · Work, Energy & Power": 02-Work-Energy-and-Power/README.md
+    - "03 · Machines": 03-Machines/README.md
+    - "04 · Refraction – Plane Surfaces": 04-Refraction-of-Light-at-Plane-Surfaces/README.md
+    - "05 · Refraction – Lens": 05-Refraction-Through-a-Lens/README.md
+    - "06 · Spectrum": 06-Spectrum/README.md
+    - "07 · Sound": 07-Sound/README.md
+    - "08 · Current Electricity": 08-Current-Electricity/README.md
+    - "09 · Household Circuits": 09-Household-Circuits/README.md
+    - "10 · Electromagnetism": 10-Electromagnetism/README.md
+    - "11 · Calorimetry": 11-Calorimetry/README.md
+    - "12 · Radioactivity": 12-Radioactivity/README.md
